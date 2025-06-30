@@ -1,4 +1,4 @@
-/* General resets */
+
 body, html {
   margin: 0;
   padding: 0;
@@ -85,9 +85,9 @@ body, html {
   cursor: pointer;
   margin-top: 10px;
 
-  /* NEW: Align it a bit right */
+  
   margin-left: auto;
-  margin-right: 20px; /* You can adjust this value */
+  margin-right: 20px; 
 }
 
 
@@ -277,7 +277,7 @@ body, html {
 }
 
 .top-bar {
-  background-color: #4a4eff; /* Blue background */
+  background-color: #4a4eff; 
   color: white;
   width: 100%;
   padding: 15px 30px;
@@ -324,7 +324,7 @@ body, html {
 
 .note {
   position: relative;
-  padding-right: 40px; /* space for delete button */
+  padding-right: 40px; 
 }
 
 

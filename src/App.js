@@ -134,7 +134,8 @@ function App() {
           </>
         ) : (
           <div className="placeholder">
-            <img src="/welcome.png" alt="Welcome" />
+            <img src={`${process.env.PUBLIC_URL}/welcome.png`} alt="Welcome" />
+
             <h1>Pocket Notes</h1>
             <p>Send and receive messages without keeping your phone online.</p>
             <p>Use Pocket Notes on up to 4 linked devices and 1 mobile phone.</p>
