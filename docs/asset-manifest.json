@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pocket-Notes-App/static/css/main.c62e03ca.css",
+    "main.js": "/Pocket-Notes-App/static/js/main.65e89582.js",
+    "index.html": "/Pocket-Notes-App/index.html",
+    "main.c62e03ca.css.map": "/Pocket-Notes-App/static/css/main.c62e03ca.css.map",
+    "main.65e89582.js.map": "/Pocket-Notes-App/static/js/main.65e89582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62e03ca.css",
+    "static/js/main.65e89582.js"
+  ]
+}
